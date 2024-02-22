@@ -1,0 +1,3 @@
+:80, http://[2001:db8::1000] {
+	respond "Hello, world!"
+}
